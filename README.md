@@ -25,15 +25,24 @@ We worked with quarterly satellite images (.tif format) spanning 40 years—abou
 
 ## Project Structure
 
-├── data/ # Sample satellite images
+├── data/ # Sample satellite images 
+
 ├── notebooks/
+
 │ ├── data_collection.ipynb
+
 │ ├── preprocessing.ipynb
+
 │ ├── detection_yolov8.ipynb
+
 │ ├── segmentation_unet.ipynb
+
 │ └── annotation_csv.ipynb
+
 ├── report/ # Final report (PDF)
+
 ├── README.md
+
 └── requirements.txt
 
 ---
@@ -46,16 +55,3 @@ We worked with quarterly satellite images (.tif format) spanning 40 years—abou
 - DeepGlobe U-Net
 - OpenCV, NumPy, Matplotlib
 - Google Colab (for training on GPU)
-
----
-
-## How to Run
-
-1. Clone the repository:
-   git clone https://github.com/your-username/urban-growth-satellite-analysis.git
-   cd urban-growth-satellite-analysis
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Run the notebooks in order. Each one has inline comments and example outputs.
