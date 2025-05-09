@@ -4,6 +4,7 @@ This project focuses on analyzing urban growth in Phoenix, Arizona from 1984 to 
 
 
 Author: Hetavi Mehta
+
 ---
 
 ## About the Project
