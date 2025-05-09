@@ -1,0 +1,6 @@
+ train: Files/Data/split/train/images
+val: Files/Data/split/val/images
+test: Files/Data/split/test/images
+
+nc: 4
+names: ['building', 'road', 'vegetation', 'construction_zone']

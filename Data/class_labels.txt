@@ -1,0 +1,4 @@
+0 building
+1 road
+2 vegetation
+3 construction_zone
