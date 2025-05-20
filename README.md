@@ -24,30 +24,6 @@ We worked with quarterly satellite images (.tif format) spanning 40 years—abou
 
 ---
 
-## Project Structure
-
-├── data/ # Sample satellite images 
-
-├── notebooks/
-
-│ ├── data_collection.ipynb
-
-│ ├── preprocessing.ipynb
-
-│ ├── detection_yolov8.ipynb
-
-│ ├── segmentation_unet.ipynb
-
-│ └── annotation_csv.ipynb
-
-├── report/ # Final report (PDF)
-
-├── README.md
-
-└── requirements.txt
-
----
-
 ## Tools and Libraries Used
 
 - Google Earth Engine
